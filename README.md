@@ -1,4 +1,4 @@
-# scala-dsl-cpp
+# Scala DSL for Modern C++ 
 Scala Domain Specific Language for C++17. Now parallelize your code with spark, akka and many other frameworks.
 
 This project defines a Scala library for the core C++ language and some useful STL
