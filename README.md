@@ -15,12 +15,12 @@ The following import
 is also needed in order to use it:
 
 ```scala
-import scalapp._
+import scalacpp._
 ```
 
 To use the JNI implementations, the code needs to load the library
 generated during compilation:
 
 ```scala
-System.loadLibrary("scalapp")
+System.loadLibrary("scalacpp")
 ```
